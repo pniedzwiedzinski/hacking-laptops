@@ -4,7 +4,7 @@ This repo contains some resources I found on the internet about repairing, moddi
 
 ## TL;DR
 
-- most old laptops use custom LVDS implementation for display connection, easiest way is to buy a LVDS converter for your LCD panel (look for model number and google) and connect via HTML
+- most old laptops use custom LVDS implementation for display connection, easiest way is to buy a LVDS converter for your LCD panel (look for model number and google) and connect via HDMI
 - newer laptops use eDP for displays
 - all laptops use custom keyboard connection using the FPC tape, you need to create a board that will convert signal from keyboard to usb to make use of it
 
